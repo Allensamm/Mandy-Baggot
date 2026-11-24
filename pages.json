@@ -1,0 +1,303 @@
+{
+  "about": {
+    "title": "About Mandy",
+    "path": "/about/",
+    "portrait": "/assets/pages/mandy-portrait.jpg",
+    "introduction": "I’m an international bestselling and award-winning romance writer represented by Tanera Simons of Greenstone Literary.",
+    "paragraphs": [
+      "I’m a member of the Society of Authors and have a home in Corfu, Greece . I love books, food, views, working out, football and Netflix. I also LOVE a handbag or six…",
+      "In March 2021 I appeared on BBC1’s Ready Steady Cook with Greek celebrity chef, Akis Petretzikis !",
+      "In 2024 my book Desperately Seeking Summer was adapted into the Hallmark movie A Greek Recipe for Romance .",
+      "I am so proud to be an Amazon UK Top 100 author and to have my books translated into many languages."
+    ],
+    "tropes": [
+      "Age gap romance – he’s younger",
+      "Enemies to lovers",
+      "Forced proximity",
+      "Friends to lovers",
+      "Fake dating",
+      "Workplace romance",
+      "Grumpy and sunshine",
+      "Rock star romance",
+      "Athlete hero",
+      "Second chance romance",
+      "Childhood sweethearts",
+      "Small town romance",
+      "Secret identity",
+      "Forbidden love"
+    ],
+    "seasonalUpdate": "Winter 2026 My BRAND NEW winter read, WINTER WITH YOU is OUT NOW! Meet the author of self-help book, Zero Fucks Given, Gabriella Felix, as she travels to New York to promote her lifestyle guide. She's not expecting a stylist for the season and she's certainly not expecting Luca Manning to be so HOT! But will it be happy holidays in Manhattan or a case of Christmas coming too soon for either of them to give away their hearts? Make sure you stay tuned to my social media pages for all the latest news, cover reveals and general good stuff from me, the Queen of Greek Romance and cosy Christmas reads!"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "path": "/newsletter/",
+    "action": "https://mandybaggot.us15.list-manage.com/subscribe/post?u=00552acbbc0b13155fdc84053&id=0eee694f18",
+    "fields": [
+      "NAME",
+      "EMAIL"
+    ],
+    "trap": "b_00552acbbc0b13155fdc84053_0eee694f18",
+    "image": "/assets/pages/newsletter.jpg"
+  },
+  "contact": {
+    "title": "Contact",
+    "path": "/contact/",
+    "social": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mandybaggot/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/mandybaggotauthor/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@mandybaggot"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/mandybaggot"
+      }
+    ],
+    "agent": {
+      "label": "Tanera Simons, Greenstone Literary",
+      "url": "https://www.greenstoneliterary.com/author/mandy-baggot"
+    },
+    "message": {
+      "label": "Message Mandy on Facebook",
+      "url": "https://www.facebook.com/mandybaggotauthor/"
+    },
+    "agentEmail": "tanera@greenstoneliterary.com"
+  },
+  "book-club": {
+    "title": "The Mandy Baggot Book Club",
+    "path": "/book-club/",
+    "topics": [
+      "My books",
+      "Other books we’re reading and recommending",
+      "TV shows we’re watching",
+      "And we ALL love to play What Are You Drinking Friday!"
+    ],
+    "exclusives": [
+      "My new cover reveals",
+      "Snippets from my upcoming releases",
+      "All kinds of news hot off the press before it goes public!"
+    ],
+    "link": {
+      "label": "Join the book club",
+      "url": "https://www.facebook.com/groups/2148869922102393/"
+    },
+    "image": "/assets/pages/book-club.jpg"
+  },
+  "movie-and-tv": {
+    "title": "Movie and TV",
+    "path": "/movie-and-tv/",
+    "film": "A Greek Recipe for Romance",
+    "description": "Mandy’s novel Desperately Seeking Summer became a Hallmark Original Movie in 2024, starring Danielle C. Ryan and Rafael Kariotakis.",
+    "url": "https://www.hallmarkchannel.com/a-greek-recipe-for-romance",
+    "trailer": "https://www.youtube.com/watch?v=CAlGv3y7OEU"
+  },
+  "translations": {
+    "title": "Translations",
+    "path": "/translations/",
+    "books": [
+      {
+        "title": "Божиќ под париското небо",
+        "language": "Macedonian",
+        "url": "https://citajkniga.mk/products/божиќ-под-париското-небо?variant=68090061258788",
+        "description": "Велат дека Париз е градот на љубовта. Затоа, спакувајте малку француски шарм и не заборавајте на имелата! Ава и нејзината најдобра пријателка Дебс пристигнуваат во Париз токму кога почнува да паѓа снегот. Ајфеловата кула блеска во златен сјај, воздухот мириса на варено вино со зачини, а градот е обвиен во вистинска божиќна магија. Но, Ава не може да мисли на ништо друго освен на Лео - нејзиниот неверен поранешен дечко, кој ѝ го скрши срцето.",
+        "cover": "/assets/pages/translation-1.jpg"
+      },
+      {
+        "title": "Искри над мразот",
+        "language": "Macedonian",
+        "url": "https://citajkniga.mk/collections/наши-производи/products/искри-над-мразот",
+        "description": "Две сосема различни личности. Еден волшебен град. Една шанса за љубов. Кога Саманта Смит, службеничка на билетарница која обожува ред и рутина, ќе ги запознае ѕвездите на „Скејтинг на Бродвеј“, нејзиниот живот ќе се сврти наопаку.",
+        "cover": "/assets/pages/translation-2.jpg"
+      },
+      {
+        "title": "Бакнеж под поларната светлина",
+        "language": "Macedonian",
+        "url": "https://citajkniga.mk/collections/наши-производи/products/бакнеж-под-поларната-светлина?_su_rec=XKIyh5hK0KNzNI3JycHOwx5GhiUGlGM3chjvMaPLdpcZLhj64XTTDJmVLcEhVCevyck6Ji_3PoemgKtYpylMuRlyevJTKPJwZWSQ8LeC7nJV_8ZSlF6eCTyJMg02UUHtUqDSFdkpopzUk6M1MceJ7ezAZyPnir82ReVRpoM831k9zBGbJkV6JoTii-oyRg1c5ScdE9XztoDqFmnavJL89LqkmJafb9nWv2b2tz5jbDIQGQmxhY_GfMryKOuzWroAqoMxAIABlA&_su_rec_id=42d96c7a-a250-4df5-bd26-f0e8c07f331f-1794935265",
+        "description": "Може ли еден бакнеж да стопи едно студено и скршено срце? Кога Клои Белами, целосно посветена на својата кариера, во последен момент е испратена на службено патување во Исланд, добива совршена можност да докаже дека заслужува место на самиот врв. Има само еден проблем: можеби малку ја разубавила својата работна биографија, наведувајќи дека зборува исландски.",
+        "cover": "/assets/pages/translation-3.jpg"
+      },
+      {
+        "title": "Під полярним сяйвом з тобою",
+        "language": "Ukrainian",
+        "url": "https://fabulabook.com/info-pid-poliarnim-siaivom-z-toboiu-10012494",
+        "description": "Який подарунок на Різдво хотілося б отримати кожному? Можливо, гарну книжку? А може, справжнє кохання? Або ж гарну книжку про справжнє кохання? «Під полярним сяйвом з тобою» — це подарунок для поціновувачів романтичних історій, захоплива різдвяна подорож до Ісландії, де можна знайти не лише святкові відчуття, а й щиру любов.",
+        "cover": "/assets/pages/translation-4.png"
+      },
+      {
+        "title": "Winterzauber unter Polar lichtern",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-unter-polarlichtern/taschenbuch/9783442498062",
+        "description": "Chloe wollte Island nur kurz besuchen. Doch die beeindruckende Winterlandschaft und der attraktive Gunnar laden zum Bleiben ein ... Als ihre Chefin sie für einen wichtigen Auftrag nach Island schickt, sieht Chloe ihre Chance gekommen. Doch kaum trifft sie im verschneiten Reykjavik ein, geht alles schief: Sie hat kein Hotelzimmer, sie spricht nicht wie von ihr erwartet perfekt Isländisch, und dann rauscht sie auf der eisglatten Straße auch noch mit einem Fremden zusammen. Der große, breitschultrige",
+        "cover": "/assets/pages/translation-5.jpg"
+      },
+      {
+        "title": "Winterzauber in den Alpen",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-den-alpen/taschenbuch/9783442496815",
+        "description": "Die Reisejournalistin Orla hatte sich so auf die Feiertage mit ihrer Familie in London gefreut, da schickt ihre Chefin sie in die französischen Alpen. Dort soll Orla eine Weihnachtsreportage über ein kleines Dorf und seine Bewohner schreiben, allen voran den schweigsamen Chaletbesitzer Jacques. Ein mürrischer Franzose hat Orla gerade noch gefehlt. Doch das charmante Saint-Chambéry, die atemberaubende verschneite Berglandschaft und die liebenswerte Dorfgemeinschaft erobern schnell ihr Herz. Und umgeben vom Zauber des Winters weckt sogar der verschlossene Jacques wider Erwarten Orlas Neugier …",
+        "cover": "/assets/pages/translation-6.png"
+      },
+      {
+        "title": "Winterzauber in Athen",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-athen/taschenbuch/9783442495801",
+        "description": "Als ihr Freund kurz vor Weihnachten geschäftlich nach Athen fliegen muss, beschließt Jen, ihn dort zu überraschen. Bei ihrer Ankunft in der griechischen Hauptstadt muss sie allerdings feststellen, dass David sie belogen hat. Hilfe findet sie bei dem liebenswerten Astro, Mitarbeiter einer kleinen Bar. Und dabei kommen Jen und Astro sich immer näher …",
+        "cover": "/assets/pages/translation-7.png"
+      },
+      {
+        "title": "Winterzauber in London",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-london/taschenbuch/9783442494620",
+        "description": "Die alleinerziehende Londonerin Anna hat nach ihrer Scheidung den Glauben an die Liebe verloren. Ablenkung findet sie in den Weihnachtsvorbereitungen, denn sie möchte ihrer Tochter Ruthie ein unvergessliches Fest schenken. Dann begegnet sie dem charmanten Footballstar Sam, der nach einer bestürzenden Nachricht nach London geflohen ist.",
+        "cover": "/assets/pages/translation-8.png"
+      },
+      {
+        "title": "Winterzauber in den Hamptons",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-den-hamptons/taschenbuch/9783442493487",
+        "description": "Als kurz vor Weihnachten ihre geliebte Großmutter stirbt, lässt Harriet in London alles stehen und liegen.Dabei trifft sie auf Mack, in den sie einst verliebt war und der ohne eine Erklärung aus ihrem Leben verschwand. Nun ist der schweigsame Bootsbesitzer fest entschlossen, Harriets Herz zurückzuerobern …",
+        "cover": "/assets/pages/translation-9.jpg"
+      },
+      {
+        "title": "Winterzauber an der Seine",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-an-der-seine/taschenbuch/9783442492282",
+        "description": "Kurz vor Weihnachten erhält Keeley eine unerwartete Einladung nach Paris. Winterspaziergänge an der Seine, köstliche Schokoladensoufflés und der glitzernde Eiffelturm bei Nacht – Keeley, die einen tragischen Unfall noch nicht überwunden hat, ist froh über die Ablenkung und reist in die französische Hauptstadt. Dort stößt sie vor dem Hotel zufällig mit Ethan Bouchard zusammen.",
+        "cover": "/assets/pages/translation-10.jpg"
+      },
+      {
+        "title": "Winterzauber in Mayfair",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-mayfair/ebook/9783641265762",
+        "description": "Ihr steht das schlimmste Weihnachten aller Zeiten bevor, davon ist die junge Lehrerin Emily Parker überzeugt. Von der Liebe enttäuscht, hängt nun auch ihr geliebter Job am seidenen Faden. Denn ihre Chefin brummt ihr das Weihnachtsmusical der Schule auf – und das, obwohl Emily völlig unmusikalisch ist. Doch dann gabeln ihre Schüler den skandalumwitterten Popstar Ray Stone nach einer durchzechten Nacht verkatert im Schulschuppen auf. Könnte er Emilys Rettung sein? Vielleicht wird dieses Weihnachtsfest ja doch das schönste, das Emily je hatte ...",
+        "cover": "/assets/pages/translation-11.jpg"
+      },
+      {
+        "title": "Winterzauber in Central Park",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-im-central-park/taschenbuch/9783442489787",
+        "description": "Weihnachten steht vor der Tür, und Lara beschließt, ihr kleines englisches Heimatdorf Appleshaw zu verlassen und mit ihrer besten Freundin Sue zu verreisen. Und zwar nach New York! Nachdem ihr Freund Dan sie verlassen hat, soll der Zauber der Stadt, die niemals schläft, Laras gebrochenes Herz heilen.",
+        "cover": "/assets/pages/translation-12.jpg"
+      },
+      {
+        "title": "Winterzauber in Notting Hill",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-notting-hill/taschenbuch/9783442488377",
+        "description": "Isla und Hannah Winters leben schon immer in Notting Hill. Seit ihre Eltern bei einem Autounfall starben, kümmert sich Isla um ihre an den Rollstuhl gefesselte Schwester. Umso schockierter sind alle über die zerstörerischen Pläne der Immobilienfirma, bei der Isla arbeitet. Und ausgerechnet Isla soll dem neuen CEO bei seinem Londonbesuch jeden Wunsch von den Lippen ablesen ...",
+        "cover": "/assets/pages/translation-13.jpg"
+      },
+      {
+        "title": "Winterzauber in Paris",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-paris/taschenbuch/9783442487066",
+        "description": "Ava und ihre beste Freundin landen genau zur richtigen Zeit in Paris: Der erste Schnee fällt, der Eiffelturm erstrahlt in goldenem Licht, und der Duft von Zimt liegt in der Luft. Die beiden Freundinnen sind nicht ohne Grund in der Stadt der Liebe. Ava braucht nach einer hässlichen Trennung Ablenkung.",
+        "cover": "/assets/pages/translation-14.jpg"
+      },
+      {
+        "title": "Winterzauber in Manhattan",
+        "language": "German",
+        "url": "https://www.penguin.de/buecher/mandy-baggot-winterzauber-in-manhattan/taschenbuch/9783442485161",
+        "description": "Die Engländerin Hayley und ihre Tochter Angel sitzen im Flieger Richtung New York, um im Big Apple Weihnachten zu feiern. Begeistert stürzen sie sich ins Abenteuer: Kutschfahrten im Central Park, Schlittschuhrunden am Rockefeller Centre und Bummel auf der 5th Avenue. Angel hat einen Herzenswunsch: ihren Vater kennenzulernen.",
+        "cover": "/assets/pages/translation-15.jpg"
+      },
+      {
+        "title": "Моето гръцко лято",
+        "language": "Bulgarian",
+        "url": "https://kryg.eu/produkt/moeto-grytsko-lyato/",
+        "description": "Две седмици. Едно незабравимо пътуване до Корфу. Уникален шанс за нея да промени живота си. Двадесет и пет годишната Беки Роуз току-що е получила мечтаната работа – да се грижи за луксозна вила на остров Корфу. Какъв по-добър начин да излекува разбитото си сърце от това да се излежава до огромен басейн и да се радва на гръцкото слънце в продължение на две седмици?",
+        "cover": "/assets/pages/translation-16.jpg"
+      },
+      {
+        "title": "Идеална Коледа в Париж",
+        "language": "Bulgarian",
+        "url": "https://kryg.eu/produkt/idealna-koleda-v-paris/",
+        "description": "Кийли Андрюз е млада лондончанка, чийто живот се преобръща заради ужасна автомобилна катастрофа. Ето защо, когато неочаквано получава покана да прекара две седмици в Париж преди Коледа, тя решава да приеме. Етан Бушар е преживял най-кошмарната година от живота си и е готов да се откаже от всичко, което има, преди на прага на един от хотелите си да се сблъска с Кийли. Двамата герои непрекъснато се натъкват един на друг сред празнично украсените френски улици, като че ли в запознанството им има пръст съдбата. А може би ги свързва и нещо още по-дълбоко?",
+        "cover": "/assets/pages/translation-17.jpg"
+      },
+      {
+        "title": "С вкус на гръцко лято",
+        "language": "Bulgarian",
+        "url": "https://kryg.eu/produkt/s-vkus-na-grytzko-lyato/",
+        "description": "Кралицата на летните романтични книги Манди Багот отново създава ярка атмосфера, вдъхновена от ненадминатия усет на нашите южни съседи към хубавия живот. „С вкус на гръцко лято“ напомня на читателите кои са истински важните неща: семейството, любовта, приятелството… Но най-вече – да останеш верен на себе си. Въпреки всичко.",
+        "cover": "/assets/pages/translation-18.jpg"
+      },
+      {
+        "title": "Jedno grčko letnje venčanje",
+        "language": "Serbian",
+        "url": "https://teabooks.rs/mendi-bagot/jedno-grcko-letnje-vencanje/",
+        "description": "Kad nakon sloma obećavajuće pevačke karijere bude nenadano pozvana sa svojom tetkom na veliku grčku pravoslavnu svadbu na Krfu, Kara će u tome videti neku vrstu blagoslova: malo vremena da zaceli na divnom grčkom ostrvu biće kao melem, mada će to uskomešati uspomene na verenika koji ju je ignorisao i nestao s lica Zemlje.",
+        "cover": "/assets/pages/translation-19.jpg"
+      },
+      {
+        "title": "Jedno grčko svitanje",
+        "language": "Serbian",
+        "url": "https://teabooks.rs/mendi-bagot/jedno-grcko-svitanje/",
+        "description": "Na dan kada puni trideset godina, Freja Džonson je iznenada ponovo sama, i ukrcava se panično u poslednji čas na let za Krf. I ne sluti da će joj to putovanje zauvek promeniti život. U seocetu Kasiopi, snima se novi holivudski film, a zvezda je niko drugi do Nikolas Kejden – zgodan, iznenađujuće jednostavan momak, ali… da li je stvaran?",
+        "cover": "/assets/pages/translation-20.jpg"
+      },
+      {
+        "title": "Jedan holivudski suton",
+        "language": "Serbian",
+        "url": "https://teabooks.rs/mendi-bagot/jedan-holivudski-suton/",
+        "description": "Pošto je prodala fotografski studio u Velikoj Britaniji, Freja Džonson živi svoj američki san, verena za holivudsku filmsku zvezdu Nikolasa Kejdena. Njena ružna prošlost konačno je iza nje, i sada može samo napred. Ali uz planiranje venčanja i mnogo humanitarnih aktivnosti koje treba organizovati, poslednje što joj treba jeste iznenadna poseta njene ljubavi iz rane mladosti, Džonija Sandersa. Bogat je, izgleda bolje nego što ga pamti i podseća je na sve ono iz vremena koje bi najradije zaboravila.",
+        "cover": "/assets/pages/translation-21.jpg"
+      },
+      {
+        "title": "Usred Grčke Zime",
+        "language": "Serbian",
+        "url": "https://teabooks.rs/mendi-bagot/usred-grcke-zime/",
+        "description": "Ali kada Dženin momak Dejvid u poslednjem trenutku otkaže njihov romantični odlazak u Pariz, pravdajući se hitnim poslom u Atini, njena najbolja prijateljica Boni predlaže hrabar plan – da ga iznenade. Pošto je već uzela slobodno iz svoje firme za organizaciju događaja Božić svakog dana, Džen odluči kako bi možda jedan neplanirani, romantični gest mogao biti baš ono što je njihovoj vezi potrebno.",
+        "cover": "/assets/pages/translation-22.jpg"
+      },
+      {
+        "title": "Inzio tutto a New York",
+        "language": "Italian",
+        "url": "https://www.newtoncompton.com/libro/inizio-tutto-a-new-york",
+        "description": "Hayley parte con la figlia per New York, decisa a realizzare il suo più grande desiderio. La temperatura è scesa, la neve si prepara a imbiancare i tetti e avvolgere ogni cosa e Hayley Walker si sta dirigendo verso New York con un unico obiettivo: ricominciare da capo.",
+        "cover": "/assets/pages/translation-23.jpg"
+      },
+      {
+        "title": "Natale a Parigi",
+        "language": "Italian",
+        "url": "https://www.newtoncompton.com/libro/natale-a-parigi",
+        "description": "La cosa più importante è seguire il proprio cuore... Ava e la sua migliore amica Debs sono appena arrivate a Parigi. La Tour Eiffel brilla di una luce magica, ma tutto quello a cui Ava riesce a pensare è Leo, il suo ex, che l’ha tradita, spezzandole il cuore.",
+        "cover": "/assets/pages/translation-24.png"
+      },
+      {
+        "title": "La mia pazza vacanza in Grecia",
+        "language": "Italian",
+        "url": "https://www.newtoncompton.com/libro/la-mia-pazza-vacanza-in-grecia",
+        "description": "Felice, fidanzata e all’apice della sua carriera, Ellen aveva una vita perfetta. Almeno fino al momento in cui tutto è crollato e si è ritrovata ferita e con il cuore spezzato. Proprio quando Ellen sembra sul punto di lasciarsi andare alla tristezza, quel tornado di sua sorella Lacey la convoca inaspettatamente in Grecia, nella splendida isola di Corfù, perché la aiuti nei preparativi di un grosso, grasso matrimonio. Che sia l’occasione giusta per schiarirsi le idee e rimettersi in piedi?",
+        "cover": "/assets/pages/translation-25.jpg"
+      },
+      {
+        "title": "La mia magica vacanza in Grecia",
+        "language": "Italian",
+        "url": "https://www.newtoncompton.com/libro/la-mia-magica-vacanza-in-grecia",
+        "description": "Becky Rowe ha appena ottenuto il lavoro dei suoi sogni: gestire una villa di lusso sull’isola di Corfù. Sembra proprio quello che ci vuole per prendersi cura del suo cuore spezzato. Il viaggio pare iniziare sotto i migliori auspici: sull’aereo Becky si ritrova seduta accanto all’affascinante Elias, che sta tornando a Corfù per sistemare alcuni affari di famiglia. E il destino ci mette lo zampino, perché, a causa di un ritardo del volo, Becky ed Elias si vedono costretti a passare una notte insieme ad Atene prima di poter ripartire per la loro destinazione. Ma i contrattempi non sono finiti. Quando una turbolenza li costringe a un atterraggio d’emergenza a Cefalonia, Becky si rende conto di essere davanti a una scelta: imparare a godersi gli imprevisti o lasciarsi prendere dal panico",
+        "cover": "/assets/pages/translation-26.jpg"
+      },
+      {
+        "title": "La mia romantica vacanza in Grecia",
+        "language": "Italian",
+        "url": "https://www.newtoncompton.com/libro/la-mia-romantica-vacanza-in-grecia",
+        "description": "Per una serie di circostanze sfortunate, Lydia Broom ha da tempo rinunciato al sogno di diventare una chef, ma è ben felice di poter fare la critica gastronomica e assaggiare i piatti più prelibati dei migliori ristoranti di Londra. Quando viene inviata a Corfù a recensire i locali dell’isola per un numero speciale della rivista in cui lavora, è impaziente ed entusiasta di scoprire quali delizie tipiche assaggerà e quali sorprese la aspetteranno.",
+        "cover": "/assets/pages/translation-27.jpg"
+      },
+      {
+        "title": "Tutta colpa dell'estate",
+        "language": "Italian",
+        "url": "https://www.newtoncompton.com/libro/tutta-colpa-dellestate",
+        "description": "Lucie Burrows ha proprio bisogno di una bella vacanza. Dopotutto se l’è meritata: lavora tutto l’anno come infermiera, con turni massacranti e un incrollabile senso del dovere. Ma adesso è arrivata l’estate e ad attenderla c’è la magnifica isola di Corfù. Lo stress diventa presto un lontano ricordo. Ma gli imprevisti sono in agguato: un giorno, mentre sta facendo una passeggiata, una frana improvvisa le impedisce di tornare al villaggio, che è rimasto isolato dal resto dell’isola. Per fortuna non è sola: anche Michalis, è rimasto tagliato fuori.",
+        "cover": "/assets/pages/translation-28.jpg"
+      }
+    ]
+  }
+}
