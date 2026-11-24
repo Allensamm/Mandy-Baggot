@@ -1,0 +1,143 @@
+{
+  "legacy": {
+    "path": "/home-old/",
+    "updated": "2026-04-10",
+    "englishTitles": [
+      "Summer Ever After",
+      "Meet Me under the Northern Lights",
+      "A Greek Island Gift",
+      "One Winter at the French Chalet",
+      "One Wish in Manhattan",
+      "Love at First Slice",
+      "Mr Right Now",
+      "One Greek Summer Wedding",
+      "One Hollywood Sunset",
+      "One Greek Sunrise",
+      "One Christmas in Paris",
+      "In the Greek Midwinter",
+      "Those Summer Nights",
+      "Truly Madly Greekly",
+      "Under a Greek Sun",
+      "Wishing on a Star",
+      "A Taste of Greek Summer",
+      "Christmas by the Coast",
+      "Staying Out for the Summer",
+      "A Perfect Paris Christmas",
+      "Safe For Summer",
+      "That First French Summer",
+      "Summer by the Lake",
+      "My Greek Island Summer",
+      "One Summer in Nashville",
+      "One Night on Ice",
+      "One Christmas Star",
+      "One Last Greek Summer",
+      "One Christmas Kiss in Notting Hill",
+      "One New York Christmas",
+      "Single for the Summer",
+      "Desperately Seeking Summer"
+    ],
+    "translationTitles": [
+      "La mia romantica vacanza in Grecia",
+      "Tutta colpa dell'estate",
+      "La mia magica vacanza in Grecia",
+      "La mia pazza vacanza in Grecia",
+      "Inzio tutto a New York",
+      "Natale a Parigi",
+      "Winterzauber in den Alpen",
+      "Winterzauber in Athen",
+      "Winterzauber in London",
+      "Winterzauber in den Hamptons",
+      "Winterzauber an der Seine",
+      "Winterzauber in Mayfair",
+      "Winterzauber in Central Park",
+      "Winterzauber in Notting Hill",
+      "Winterzauber in Paris",
+      "Winterzauber in Manhattan",
+      "Szinglikent a nyarba",
+      "Egy Karacsony Parizsban",
+      "Orult gorog nyar",
+      "Egy karácsonyi csók",
+      "Моето гръцко лято",
+      "Идеална Коледа в Париж",
+      "С вкус на гръцко лято",
+      "Jedno grčko letnje venčanje",
+      "Jedno grčko svitanje"
+    ],
+    "seasonalUpdate": "Winter 2026 I am so excited for this year and the new stories I am going to bring you starting with my BRAND NEW summer book coming in April! It's called SUMMER EVER AFTER and I know you're going to love this year's visit to Corfu! Make sure you stay tuned to my social media pages for all the latest news, cover reveals and general good stuff from me, the Queen of Greek Romance and cosy Christmas reads!"
+  },
+  "additionalTranslations": [
+    {
+      "title": "Szinglikent a nyarba",
+      "language": "Hungarian",
+      "description": "A munkamániás Tess, miután kikosarazta aktuális hódolóját, otthagy csapot-papot, hogy elkísérje legjobb barátnőjét Korfu szigetére, akit viszont a barátja hagyott cserben. A két lány elhatározza, hogy ezúttal szigorúan férfitársaság nélkül töltik a szabadságukat. Tengerparti napozással és tavernalátogatással töltik az időt, amikor megjelenik a színen Andrasz és családja. Az elvált férfi ráveszi Tesst, játssza el a barátnője szerepét, hogy kivédje anyja kerítőnői próbálkozásait.",
+      "url": "https://www.libri.hu/konyv/Szinglikent-a-nyarba-19.html",
+      "sourceCover": "http://mandybaggot.com/wp-content/uploads/2019/06/imageedit_3_9123525578-436x684_c.jpg",
+      "cover": "/assets/pages/translation-29.jpg",
+      "sourceUrl": "http://www.tericum.hu/?product=szinglikent-a-nyarba"
+    },
+    {
+      "title": "Egy Karacsony Parizsban",
+      "language": "Hungarian",
+      "description": "Ava, a fiatal exmodell titkos küldetésre kíséri barátnőjét Párizsba, aki a mostohaapja szeretője után nyomoz. A kivilágított Eiffel-torony látványa és az utcákat betöltő forraltbor illata se tudja enyhíteni Ava bánatát, pedig azért kísérte el a barátnőjét, hogy kiverje a fejéből hűtlen kedvesét és a szakítás fájdalmát.",
+      "url": "https://www.libri.hu/konyv/mandy_baggot.Egy-karacsony-Parizsban-27.html",
+      "sourceCover": "http://mandybaggot.com/wp-content/uploads/2017/12/book_trans_2-436x684_c.jpg",
+      "cover": "/assets/pages/translation-30.jpg",
+      "sourceUrl": "http://www.tericum.hu/?product=egy-karacsony-parizsban"
+    },
+    {
+      "title": "Orult gorog nyar",
+      "language": "Hungarian",
+      "description": "A lány Görögországba, Korfu szigetére utazik, hogy elűzze szívéből a fájdalmat és segítsen a húga esküvője megszervezésében. Miközben a munkája következményeitől és egykori udvarlójától retteg, Ellen egyre bensőségesebb kapcsolatba kerül a szálloda egyik animátorával, aki olyan titkot őriz, amelyet eddig soha senki előtt nem fedett fel.",
+      "url": "https://www.libri.hu/konyv/mandy_baggot.Orult-gorog-nyar.html",
+      "sourceCover": "http://mandybaggot.com/wp-content/uploads/2017/12/book_trans_3-436x684_c.jpg",
+      "cover": "/assets/pages/translation-31.jpg",
+      "sourceUrl": "http://www.tericum.hu/?product=orult-gorog-nyar"
+    },
+    {
+      "title": "Egy karácsonyi csók",
+      "language": "Hungarian",
+      "description": "Mindenki szereti a karácsonyt. Így van vele Isla Winters is. Húgával, aki egy tragikus kimenetelű baleset után tolószékbe kényszerült, Notting Hillben élnek, London izgalmas, ezerarcú városrészében, ahol a nagy sikerű film, a Sztárom a párom is játszódik. A városrész ünnepi fényekbe öltözik, és pazar partik helyszíne lesz. Csakhogy Isla ezúttal nem tudja igazán élvezni kedvenc ünnepét, annyi gond, teher és intéznivaló nehezedik a vállára.",
+      "url": "https://www.libri.hu/konyv/mandy_baggot.Egy-karacsonyi-csok-27.html",
+      "sourceCover": "http://mandybaggot.com/wp-content/uploads/2018/11/imageedit_1_8955640621-436x684_c.jpg",
+      "cover": "/assets/pages/translation-32.jpg",
+      "sourceUrl": "http://www.tericum.hu/?product=egy-karacsonyi-csok"
+    }
+  ],
+  "socialPosts": [
+    {
+      "url": "https://www.instagram.com/p/DgGFn0Ilzxu/",
+      "caption": "Want to keep your spirits high this week?\nSettle down with One Wish in Manhattan for the perfect thing to take some time for yourself with. Link in bio!\n\n#MandyBaggot #Winter #Reading #RomCom #Books",
+      "date": 1795460705
+    },
+    {
+      "url": "https://www.instagram.com/p/DgFnNCvgGva/",
+      "caption": "Happy Publication Day to me in Macedonia! 🇲🇰\nThe translation of One Christmas in Paris is also OUT TODAY!\nWill Ava and Julien heal each other's hearts in Paris this Christmas?\n#mandybaggot #publicationday #macedonia #newbook #paris \n@darbyliterary_ @greenstoneliterary @citaj_kniga",
+      "date": 1795444686
+    },
+    {
+      "url": "https://www.instagram.com/p/DgFOQsTh4hN/",
+      "caption": "OUT TODAY IN MACEDONIA 🇲🇰\nIt's the translation of One Night on Ice and I can't wait for readers to meet Samantha and Jimmy in this ice skating romance!\n#mandybaggot #publicationday #newbook #macedonia \n@darbyliterary_ @greenstoneliterary @citaj_kniga",
+      "date": 1795431609
+    },
+    {
+      "url": "https://www.instagram.com/p/DgE5rIXQPcm/",
+      "caption": "OUT TODAY IN MACEDONIA 🇲🇰\nIt's the translation of Meet Me under the Northern Lights!\nI am THRILLED to have another translation out in the world and hope readers love it!\n#mandybaggot #macedonia #newbook #publicationday \n@greenstoneliterary @darbyliterary_ @citaj_kniga",
+      "date": 1795420815
+    },
+    {
+      "url": "https://www.instagram.com/p/DgDk2V9EbU_/",
+      "caption": "Back to Avliotes today for Avliotes v Thinaliakos. It ended 0-3 but the script was really wholly written by one player who showed class, composure, innate skill and the maturity of a seasoned professional. I am unashamedly one of his biggest supporters and seeing him grow with every match is a joy. He will be a superstar one day so remember his name. Man of the match - Gerti Bardhi (12).\n#epskerkyra #footballtalent #footballscout #greekfootball #footballplayer",
+      "date": 1795376341
+    },
+    {
+      "url": "https://www.instagram.com/p/DgDguVmF9U_/",
+      "caption": "Dreaming of romance during this special time of year?\nFall in love with One Christmas in Paris for a fun and festive romcom to fill your season with joy. Link in bio!\n\n#MandyBaggot #Books #Christmas #Reading #RomCom",
+      "date": 1795374257
+    },
+    {
+      "url": "https://www.instagram.com/p/DgDXdUzESjH/",
+      "caption": "It was 2-1 at Karousades for Sfakeron v Faiakon in an evenly-matched tie. Those who battled hardest got the three points. #mandybaggot #mybigfatgreekishlife #greekfootball #epskerkyra #grassrootsfootball",
+      "date": 1795369321
+    }
+  ]
+}

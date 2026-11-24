@@ -4,3 +4,25 @@
 @media(max-width:850px){.head{min-height:68px}.head .newsletter{margin-left:auto}.menubtn{display:grid;place-items:center;border:0;background:transparent;padding:9px;color:var(--ink);font-size:1.35rem}nav{display:none;position:absolute;right:0;left:0;top:100%;background:var(--cream);padding:12px 5% 20px;border-bottom:1px solid var(--line)}nav.open{display:grid;grid-template-columns:1fr 1fr}nav a{font-size:1rem}nav a[aria-current]:after{width:28px}.grid{grid-template-columns:repeat(3,minmax(0,1fr))}.shelf .grid{display:flex;overflow:auto;scroll-snap-type:x mandatory;padding-bottom:9px}.shelf .card{min-width:0;flex:0 0 29%;scroll-snap-align:start}.hero-grid{gap:4%}.postmark{width:64px;height:64px}.hero-text>p{font-size:1rem}.foot{align-items:flex-start}.actions{gap:1rem}}
 @media(max-width:620px){.wrap{width:89%}.brand{font-size:1.9rem}.head .newsletter{font-size:.8rem}.hero-grid,.editorgrid,.detail,.split{grid-template-columns:1fr}.hero-grid{padding:2.3rem 0 2.6rem;gap:1.95rem}.hero h1{font-size:clamp(3.1rem,11.8vw,4.4rem);margin:.6rem 0 1rem}.hero-text>p{max-width:370px;margin-bottom:1.25rem}.post-scene{margin:6px 8px 8px 15px}.postcard{padding:8px 8px 0}.postcard img{aspect-ratio:1.85}.caption{font-size:1.4rem}.postmark{left:-19px;bottom:-9px}.shelf{padding:2rem 0}.shelf .card{flex-basis:44%}.sectionhead{margin:.5rem 0 1.1rem}.sectionhead h2{font-size:2rem}.sectionhead .textlink{font-size:.83rem}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.foot,.filters{flex-wrap:wrap}.foot>div{justify-content:flex-start}.inside{padding:2.2rem 0 3rem}.inside h1{margin-bottom:1rem}.detail{gap:1.8rem}.detailcover img{max-height:320px;width:auto;max-width:100%}.editorgrid{gap:1rem}.filters{align-items:center}.filters input{width:100%}#count{margin:0}.split{gap:1.5rem}.endnote{padding:2.5rem 0}.inside .btn{padding:13px 15px}.social{gap:1rem}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+.coverwell{position:relative}
+.preview-toggle{position:absolute;inset:0;display:grid;place-items:center;width:100%;height:100%;background:transparent;border:0;padding:0;color:var(--ink)}
+.preview-toggle span{position:absolute;right:8px;bottom:8px;border-radius:3px;background:var(--cream);padding:2px 8px;font-size:.78rem}
+.preview-toggle:focus-visible{outline-offset:-4px}
+.blurb{position:absolute;inset:0;background:#70529c;color:#fff;padding:1.45rem 1rem 1rem;text-align:center;overflow:auto;overscroll-behavior:contain;scrollbar-width:thin;animation:blurb-in .24s ease-out}
+.blurb:before{content:"";display:block;width:16px;height:23px;background:#fff0c6;margin:-1.45rem auto .6rem;clip-path:polygon(0 0,100% 0,100% 100%,50% 77%,0 100%)}
+.blurb strong{font:500 1.22rem/1.22 var(--serif)}
+.blurb p{font-size:.96rem;line-height:1.5;margin:.7rem 0 0}
+.blurb:not([hidden])~button{display:block}
+.shoplink{display:inline-block;color:var(--teal);font-size:.85rem;text-decoration:underline;text-underline-offset:3px}
+.card h3 a:hover{color:var(--pink)}
+.trailer{aspect-ratio:16/9;background:#12292b;width:100%;border-radius:5px;overflow:hidden}
+.trailer iframe{display:block;border:0;width:100%;height:100%}
+.homefilm{display:grid;grid-template-columns:.85fr 1.3fr;gap:7%;align-items:center;padding:3.5rem 0;border-top:1px solid var(--line)}
+.homefilm h2{margin:.55rem 0}.homefilm .shoplink{margin-top:.5rem}
+.editorgrid .trailer{margin:1.4rem 0}.season{margin-top:1.4rem}.season summary{cursor:pointer;color:var(--teal);font-weight:600}
+@keyframes blurb-in{from{transform:translateY(100%)}to{transform:translateY(0)}}
+@media(max-width:700px){.homefilm{grid-template-columns:1fr;gap:1.25rem;padding:2rem 0}}
+@media(prefers-reduced-motion:reduce){.blurb{animation:none}}
+.close-preview{display:block;margin:1rem auto 0;background:none;border:1px solid #ffffff85;border-radius:4px;color:white;padding:5px 10px}
+.archive-links{display:flex;flex-wrap:wrap;gap:1.15rem}.archivenote{max-width:740px}.post-list{list-style:none;max-width:780px}.inside .post-list{padding:0}.post-list li{border-bottom:1px solid var(--line);padding:1.1rem 0}

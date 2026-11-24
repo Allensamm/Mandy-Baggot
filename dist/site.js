@@ -30,3 +30,39 @@ if (search) {
   lang?.addEventListener('change',update);
   document.querySelector('#clear').addEventListener('click',()=>{search.value='';if(lang)lang.value='';update();search.focus();});
 }
+
+for (const button of document.querySelectorAll('.preview-toggle')) {
+  const well = button.parentElement;
+  const panel = document.getElementById(button.getAttribute('aria-controls'));
+  panel.tabIndex = 0;
+  function show(open) {
+    button.setAttribute('aria-expanded', String(open));
+    panel.hidden = !open;
+  }
+  well.addEventListener('pointerenter', event => {
+    if (event.pointerType === 'mouse') show(true);
+  });
+  well.addEventListener('pointerleave', event => {
+    if (event.pointerType === 'mouse' && !well.contains(document.activeElement)) show(false);
+  });
+  button.addEventListener('focus', () => {
+    if (button.matches(':focus-visible')) show(true);
+  });
+  button.addEventListener('click', () => {
+    show(true);
+    panel.focus({preventScroll:true});
+  });
+  panel.querySelector('.close-preview').addEventListener('click', () => {
+    button.focus({preventScroll:true});
+    show(false);
+  });
+  well.addEventListener('focusout', event => {
+    if (!well.contains(event.relatedTarget)) show(false);
+  });
+  well.addEventListener('keydown', event => {
+    if (event.key === 'Escape') {
+      button.focus({preventScroll:true});
+      show(false);
+    }
+  });
+}
